@@ -1,0 +1,29 @@
+[
+  {
+    "uuid": "2923b20d-4c5b-3f22-9e14-024017a45366",
+    "displayName": {
+      "insertion": "Allxn",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell Allxn "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "2923b20d-4c5b-3f22-9e14-024017a45366",
+          "name": {
+            "text": "Allxn"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "Allxn"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
+  }
+]
