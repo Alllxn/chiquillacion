@@ -25,5 +25,32 @@
       "text": ""
     },
     "animation": "null"
+  },
+  {
+    "uuid": "b87bd5ad-ff7d-3bdf-926a-b70493632c1e",
+    "displayName": {
+      "insertion": "gatovolad0r",
+      "clickEvent": {
+        "action": "suggest_command",
+        "value": "/tell gatovolad0r "
+      },
+      "hoverEvent": {
+        "action": "show_entity",
+        "contents": {
+          "type": "minecraft:player",
+          "id": "b87bd5ad-ff7d-3bdf-926a-b70493632c1e",
+          "name": {
+            "text": "gatovolad0r"
+          }
+        }
+      },
+      "extra": [
+        {
+          "text": "gatovolad0r"
+        }
+      ],
+      "text": ""
+    },
+    "animation": "null"
   }
 ]
